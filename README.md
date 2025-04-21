@@ -61,10 +61,10 @@ market-risk-esilv/
 
 ## 📄 Files Included
 
-- `docs/Projet Market risk.pdf` – Clean final report  
-- `docs/Market_Risk (3).pdf` – Raw/annotated version  
+- `docs/Projet Market risk.pdf` – Project questions and tasks.  
+- `docs/Market Risk Final Report.pdf` – Final Report explaining the answers, the code is also included in the appendix. 
 - `data/Natixis_ihab.xlsx`, `Dataset TD4.xlsx`, `Dataset-TD5-csv.csv` – market & FX data  
-- `notebooks/QuestionA-E.ipynb` – Full Python implementation
+- `notebooks/QuestionA-E.ipynb` – Full Python implementation for each question.
 
 ---
 
